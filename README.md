@@ -5,7 +5,7 @@ This repo is to link all completed projects from the [roadmaps.sh Devops Project
 ## Beginner 
 
 - [Server Performance Stats](https://github.com/D3jag0re/Rando-Scripto) 
-- Log Archive Tool 
+- [Log Archive Tool](https://github.com/D3jag0re/log-archive-tool) 
 - Nginx Log Analyser 
 - GitHub Pages Deployment 
 - SSH Remote Server Setup 
