@@ -1,6 +1,6 @@
 # devops-roadmap-projects
 
-This repo is to link all projects from the [roadmaps.sh Devops Projects](https://roadmap.sh/devops/projects)
+This repo is to link all completed projects from the [roadmaps.sh Devops Projects](https://roadmap.sh/devops/projects)
 
 ## Beginner 
 
