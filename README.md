@@ -2,6 +2,8 @@
 
 This repo is to link all completed projects from the [roadmaps.sh Devops Projects](https://roadmap.sh/devops/projects)
 
+If there is an active link then that project is in a working state. 
+
 ## Beginner 
 
 - [Server Performance Stats](https://github.com/D3jag0re/Rando-Scripto/tree/main/SH-Server-Stat) 
