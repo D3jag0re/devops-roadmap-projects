@@ -4,15 +4,15 @@ This repo is to link all completed projects from the [roadmaps.sh Devops Project
 
 ## Beginner 
 
-- [Server Performance Stats](https://github.com/D3jag0re/Rando-Scripto) 
+- [Server Performance Stats](https://github.com/D3jag0re/Rando-Scripto/tree/main/SH-Server-Stat) 
 - [Log Archive Tool](https://github.com/D3jag0re/log-archive-tool) 
-- Nginx Log Analyser 
+- [Nginx Log Analyser](https://github.com/D3jag0re/Rando-Scripto/tree/main/SH-Nginx-Log-Analyser) 
 - GitHub Pages Deployment 
-- SSH Remote Server Setup 
+- [SSH Remote Server Setup](https://github.com/D3jag0re/iac-demo-bsic2) - T2 Satisfies this requirement
 - Static Site Server 
 - Basic DNS Setup 
 - Simple Monitoring 
-- Dummy Systemd Service 
+- [Dummy Systemd Service](https://github.com/D3jag0re/Rando-Scripto/tree/main/SH-Dummy-Systemd-Service)
 - Basic Dockerfile 
 - EC2 Instance 
 
