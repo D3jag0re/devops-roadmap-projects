@@ -24,7 +24,7 @@ If there is an active link then that project is in a working state.
 - Configuration Management 
 - IaC on DigitalOcean
 - Node.js Service Deployment 
-- [Dockerized Service] (https://github.com/D3jag0re/dockerized-service)
+- [Dockerized Service](https://github.com/D3jag0re/dockerized-service)
 - Multi-Container Application 
 - Automated DB Backups
 
