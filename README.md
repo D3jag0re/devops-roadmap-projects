@@ -11,7 +11,7 @@ If there is an active link then that project is in a working state.
 - [Nginx Log Analyser](https://github.com/D3jag0re/Rando-Scripto/tree/main/SH-Nginx-Log-Analyser) 
 - [GitHub Pages Deployment](https://github.com/D3jag0re/github-pages-deployment) 
 - [SSH Remote Server Setup](https://github.com/D3jag0re/iac-demo-bsic2) - T2 Satisfies this requirement
-- Static Site Server 
+- [Static Site Server](https://github.com/D3jag0re/static-site-server) 
 - Basic DNS Setup 
 - [Simple Monitoring](https://github.com/D3jag0re/simple-monitoring) 
 - [Dummy Systemd Service](https://github.com/D3jag0re/Rando-Scripto/tree/main/SH-Dummy-Systemd-Service)
