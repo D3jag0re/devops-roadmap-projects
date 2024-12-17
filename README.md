@@ -27,6 +27,8 @@ If there is an active link then that project is in a working state.
 - [Dockerized Service](https://github.com/D3jag0re/dockerized-service)
 - Multi-Container Application 
 - Automated DB Backups
+- Bastion Host
+- File Integrity Checker
 
 ## Advanced
 
