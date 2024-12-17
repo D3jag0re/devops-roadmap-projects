@@ -13,7 +13,7 @@ If there is an active link then that project is in a working state.
 - [SSH Remote Server Setup](https://github.com/D3jag0re/iac-demo-bsic2) - T2 Satisfies this requirement
 - Static Site Server 
 - Basic DNS Setup 
-- Simple Monitoring 
+- [Simple Monitoring](https://github.com/D3jag0re/simple-monitoring) 
 - [Dummy Systemd Service](https://github.com/D3jag0re/Rando-Scripto/tree/main/SH-Dummy-Systemd-Service)
 - [Basic Dockerfile](https://github.com/D3jag0re/dockerized-service/tree/main/basic%20dockerfile) 
 - EC2 Instance 
