@@ -28,7 +28,7 @@ If there is an active link then that project is in a working state.
 - [Multi-Container Application](https://github.com/D3jag0re/multi-container-application)
 - [Automated DB Backups](https://github.com/D3jag0re/automated-db-backups)
 - [Bastion Host](https://github.com/D3jag0re/bastion-host)
-- File Integrity Checker
+- [File Integrity Checker](https://github.com/D3jag0re/file-integrity-checker)
 
 ## Advanced
 
