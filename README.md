@@ -16,7 +16,7 @@ If there is an active link then that project is in a working state.
 - [Simple Monitoring](https://github.com/D3jag0re/simple-monitoring) 
 - [Dummy Systemd Service](https://github.com/D3jag0re/Rando-Scripto/tree/main/SH-Dummy-Systemd-Service)
 - [Basic Dockerfile](https://github.com/D3jag0re/dockerized-service/tree/main/basic%20dockerfile) 
-- EC2 Instance 
+- [EC2 Instance](https://github.com/D3jag0re/ec2-instance)
 
 
 ## Intermediate 
