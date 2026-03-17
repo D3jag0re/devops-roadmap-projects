@@ -21,6 +21,7 @@ If there is an active link then that project is in a working state.
 
 ## Intermediate 
 
+- [Pomodoro Timer](https://github.com/D3jag0re/)
 - [Configuration Management](https://github.com/D3jag0re/configuration-management) 
 - [IaC on DigitalOcean](https://github.com/D3jag0re/dockerized-service)
 - [Node.js Service Deployment](https://github.com/D3jag0re/dockerized-service) 
@@ -29,6 +30,8 @@ If there is an active link then that project is in a working state.
 - [Automated DB Backups](https://github.com/D3jag0re/automated-db-backups)
 - [Bastion Host](https://github.com/D3jag0re/bastion-host)
 - [File Integrity Checker](https://github.com/D3jag0re/file-integrity-checker)
+- [Linux Server Setup](https://github.com/D3jag0re/)
+- [VPN Server Setup](https://github.com/D3jag0re/)
 
 ## Advanced
 
