@@ -21,7 +21,7 @@ If there is an active link then that project is in a working state.
 
 ## Intermediate 
 
-- [Pomodoro Timer](https://github.com/D3jag0re/pomodoro-timer) `INCOMPLETE`
+- [Pomodoro Timer](https://github.com/D3jag0re/pomodoro-timer)
 - [Configuration Management](https://github.com/D3jag0re/configuration-management) 
 - [IaC on DigitalOcean](https://github.com/D3jag0re/dockerized-service)
 - [Node.js Service Deployment](https://github.com/D3jag0re/dockerized-service) 
