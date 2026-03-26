@@ -30,7 +30,7 @@ If there is an active link then that project is in a working state.
 - [Automated DB Backups](https://github.com/D3jag0re/automated-db-backups)
 - [Bastion Host](https://github.com/D3jag0re/bastion-host)
 - [File Integrity Checker](https://github.com/D3jag0re/file-integrity-checker)
-- [Linux Server Setup](https://github.com/D3jag0re/linux-server-setup) `INCOMPLETE`
+- [Linux Server Setup](https://github.com/D3jag0re/linux-server-setup)
 - [VPN Server Setup](https://github.com/D3jag0re/vpn-server-setup) `INCOMPLETE`
 
 ## Advanced
