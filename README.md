@@ -35,7 +35,7 @@ If there is an active link then that project is in a working state.
 
 ## Advanced
 
-- Blue-Green Deployment
-- Prometheus and Grafana 
-- Multi-Service Application 
-- Service Discovery
+- [Blue-Green Deployment](https://github.com/D3jag0re/blue-green-deployment) `INCOMPLETE`
+- [Prometheus and Grafana](https://github.com/D3jag0re/prometheus-and-grafana) `INCOMPLETE`
+- [Multi-Service Application](https://github.com/D3jag0re/multi-service-application) `INCOMPLETE`
+- [Service Discovery](https://github.com/D3jag0re/service-discovery) `INCOMPLETE`
